@@ -1,0 +1,33 @@
+[  
+  {
+    "model": "client.PaymentMaster",
+    "fields": {
+      "id" : 1,
+      "salary_type":"Basic"
+    }
+  },
+  {
+    "model": "client.PaymentMaster",
+    "fields": {
+      "id" : 2,
+      "salary_type":"HRA"
+    }
+  }, 
+  {
+    "model": "client.PaymentMaster",
+    "fields": {
+      "id" : 3,
+      "salary_type":"DA"
+    }
+  },
+  {
+    "model": "client.PaymentMaster",
+    "fields": {
+      "id" : 4,
+      "salary_type":"Performance Allowance"
+    }
+  }
+
+  
+  
+]  

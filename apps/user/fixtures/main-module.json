@@ -1,0 +1,10 @@
+[
+    {
+        "model": "user.ERPModelCatalog",
+        "fields": {
+            "id": 1,
+            "module": "crm",
+            "is_active" : "True"   
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[  
+  {
+    "model": "settings.ApprovalMaster",
+    "fields": {
+      "id" : 1,
+      "section":"sale_order"
+    }
+  },
+  {
+    "model": "settings.ApprovalMaster",
+    "fields": {
+      "id" : 2,
+      "section":"purchase_order"
+    }
+  },
+  {
+    "model": "settings.ApprovalMaster",
+    "fields": {
+      "id" : 3,
+      "section":"purchase_indent"
+    }
+  },
+  {
+    "model": "settings.ApprovalMaster",
+    "fields": {
+      "id" : 4,
+      "section":"quotation_approval"
+    }
+  },
+  {
+    "model": "settings.ApprovalMaster",
+    "fields": {
+      "id" : 5,
+      "section":"client_approval"
+    }
+  }
+
+  
+  
+]  
